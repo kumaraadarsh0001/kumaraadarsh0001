@@ -16,7 +16,7 @@ Passionate backend developer with a strong foundation in Python and JavaScript. 
 - [Any specific technology or skill you're currently learning]
 
 ### 📫 Contact Me
-- LinkedIn: [Not  ](https://www.linkedin.com/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/aadarsh-kumar-5506802a8/)
 - Twitter: [Not  ](https://twitter.com/)
 
 ### 🚀 Projects
