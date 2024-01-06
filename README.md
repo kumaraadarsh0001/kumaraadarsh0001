@@ -1,5 +1,35 @@
 # - 👋 Hi, I’m @kumaraadarsh0001
 
+
+geekyshow1/README.md
+MasterHead
+
+Codingfollowers-count
+Hi, I'm Rajesh Kumar
+I am Full Stack Web and Android App Developer. I am also an Educator. I teach on https://www.youtube.com/user/GeekyShow1 having 400k+ Subscribers.
+
+Tech Stack
+Languages
+html5 css3 javascript python
+
+Frontend Framework and Lib
+bootstrap tailwind reactjs vuejs material-ui material-design redux reactrouter
+
+Backend Framework and Lib
+nodejs expressjs laravel django
+
+Database
+mysql mongodb sqlite
+
+Mobile Framework
+flutter reactnative
+
+Other
+canva firebase wordpress digitalocean netlify postman
+
+Let's Connect
+geekyshow1 irenicraj geekyshow geekyshow1 geekyshow1 geekyshows portfolio
+
 ## 👨‍💻 Backend Developer | 🐍 Python Enthusiast | 🌐 JavaScript Lover
 
 ### 🚀 About Me
