@@ -34,7 +34,7 @@ Passionate backend developer with a strong foundation in Python and JavaScript. 
 [<img align="left" alt="TWITTER" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Coast_twitter.png?20231024212458" />]([https://twitter.com/](https://twitter.com/AadarshKum0001))
 [<img align="left" alt="FACEBOOK" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" />](https://www.facebook.com/KUMARAADARSH0001/)
 [<img align="left" alt="INSTAGRM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/900px-Instagram-Icon.png?20230822013318" />](https://www.instagram.com/kumar_aadarsh0001/)
-[<img align="left" alt="WHATSAPP" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhatsappLogo.svg/1200px-WhatsappLogo.svg.png?20220718194430" />](https://wa.me/917206290255)
+[<img align="left" alt="WHATSAPP" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhatsappLogo.svg/1200px-WhatsappLogo.svg.png?20220718194430" />](https://wa.me/917206290255)
 [<img align="left" alt="TELEGRAM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/768px-Telegram_logo_icon.svg.png?20230705114233" />](https://telegram.me/kumar_aadarsh0001) </br>
 
 ### 🚀 Projects
