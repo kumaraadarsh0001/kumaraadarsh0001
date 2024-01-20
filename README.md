@@ -30,12 +30,12 @@ Passionate backend developer with a strong foundation in Python and JavaScript. 
 <img align="left" alt="DIGITAL OCEAN" height="25px" width="100px" src="https://camo.githubusercontent.com/0aee046ddd2dda495c73388dedd368c122d06c6d618deca3398289ac87f660b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4469676974616c5f4f6365616e2d3030383046463f7374796c653d666f722d7468652d6261646765266c6f676f3d4469676974616c4f6365616e266c6f676f436f6c6f723d7768697465" /> </br>
 
 ### Contact Me
-[<img align="left" alt="LINKD IN" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Wbseries_linkdin.png?20211115150153" />](https://www.linkedin.com/in/aadarsh-kumar-5506802a8/)
-[<img align="left" alt="TWITTER" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Coast_twitter.png?20231024212458" />]([https://twitter.com/](https://twitter.com/AadarshKum0001))
-[<img align="left" alt="FACEBOOK" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" />](https://www.facebook.com/KUMARAADARSH0001/)
-[<img align="left" alt="INSTAGRM" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/900px-Instagram-Icon.png?20230822013318" />](https://www.instagram.com/kumar_aadarsh0001/)
-[<img align="left" alt="WHATSAPP" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhatsappLogo.svg/1200px-WhatsappLogo.svg.png?20220718194430" />](https://wa.me/917206290255)
-[<img align="left" alt="TELEGRAM" hight="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/768px-Telegram_logo_icon.svg.png?20230705114233" />](https://telegram.me/kumar_aadarsh0001) </br>
+[<img align="left" alt="LINKD IN" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Wbseries_linkdin.png?20211115150153" />](https://www.linkedin.com/in/aadarsh-kumar-5506802a8/)
+[<img align="left" alt="TWITTER" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Coast_twitter.png?20231024212458" />]([https://twitter.com/](https://twitter.com/AadarshKum0001))
+[<img align="left" alt="FACEBOOK" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" />](https://www.facebook.com/KUMARAADARSH0001/)
+[<img align="left" alt="INSTAGRM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/900px-Instagram-Icon.png?20230822013318" />](https://www.instagram.com/kumar_aadarsh0001/)
+[<img align="left" alt="WHATSAPP" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhatsappLogo.svg/1200px-WhatsappLogo.svg.png?20220718194430" />](https://wa.me/917206290255)
+[<img align="left" alt="TELEGRAM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/768px-Telegram_logo_icon.svg.png?20230705114233" />](https://telegram.me/kumar_aadarsh0001) </br>
 
 ### 🚀 Projects
 - **Project 1: [Project Name](Link to the project repository)**
