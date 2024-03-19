@@ -36,24 +36,21 @@ Passionate backend developer with a strong foundation in Python and JavaScript. 
 [<img align="left" alt="INSTAGRM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/900px-Instagram-Icon.png?20230822013318" />](https://www.instagram.com/kumar_aadarsh0001/)
 [<img align="left" alt="WHATSAPP" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WhatsappLogo.svg/1200px-WhatsappLogo.svg.png?20220718194430" />](https://wa.me/917206290255)
 [<img align="left" alt="TELEGRAM" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telegram_logo_icon.svg/768px-Telegram_logo_icon.svg.png?20230705114233" />](https://telegram.me/kumar_aadarsh0001) </br>
-
+</br>
 ### 🚀 Projects
-- **Project 1: [Project Name](Link to the project repository)**
-  - Description: Brief description of the project.
-  - Technologies: List of technologies used.
-  - Contributions: Your role and contributions to the project.
+- **Project 1: [E-Commerce Shop](https://mshop-client.vercel.app/)**
+  - Description: This is e-commerce wbsite for buy products
+  - Technologies: Node JS and react is used in this project.
+  - Contributions: Backend in created by me and Fronted is created by my sibling he is also a developer.
 
-- **Project 2: [Project Name](Link to the project repository)**
-  - Description: Brief description of the project.
-  - Technologies: List of technologies used.
-  - Contributions: Your role and contributions to the project.
-
-### 🤝 Let's Connect
-Feel free to reach out for collaborations, discussions, or if you just want to chat about technology!
+- **Project 2: [Customer Entry Project](https://hotel-london-project.vercel.app/)**
+  - Description: This is a hotel project of hotel london here is an entry page any client fill the form the data will stored at admin pannel.
+  - Technologies: I was used fireabse authentication and CRUD with react.
+  - Contributions: All part of this  project is crated by me.
 
 ### 🎓 Education
-- **[Degree] in [Field], [University], [Year]**
+- **[Backend Development] in [Python and Javascript], [Hexabirds Private Limited], [2021-2023]**
 
 ### 🏆 Achievements
-- Any notable achievements or certifications you'd like to highlight.
+- I have certificate of Backend Development
 
